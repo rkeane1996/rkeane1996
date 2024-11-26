@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rkeane1996
-- 👀 I’m interested in building both front end and back end solutions using Java/Typescript/Spring/NestJS
-- 🌱 I’m currently learning IOS development
 
 
 <!---
